@@ -9,5 +9,9 @@ The main outputs of this project are the ✅index.html and ✅styles.css files, 
 
 <br>
 <strong>Note:</strong><br>
-🔍 You can preview the index.html using Github&Bitbucket's HTML Preview:
-https://htmlpreview.github.io/?https://github.com/jessislearning/tribute-page/blob/main/index.html
+🔍 You can preview the page here:<br>
+https://jessislearning.github.io/tribute-page/<br>
+<br>
+👓 This is a screenshot of the page:<br><br>
+<img width="640" alt="image" src="https://github.com/jessislearning/tribute-page/assets/161026755/bd6881ea-6fbd-49e9-9888-5f946d79c235">
+
