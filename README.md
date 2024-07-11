@@ -12,6 +12,8 @@ The main outputs of this project are the ✅index.html and ✅styles.css files, 
 🔍 You can preview the page here:<br>
 https://jessislearning.github.io/tribute-page/<br>
 <br>
-👓 This is a screenshot of the page:<br><br>
+👓 These are screenshots of the page:<br><br>
+<img width="1195" alt="image" src="https://github.com/jessislearning/tribute-page/assets/161026755/21be27f4-22fa-449d-9e6c-a5746292c8bf"><br>
+<br>
 <img width="640" alt="image" src="https://github.com/jessislearning/tribute-page/assets/161026755/bd6881ea-6fbd-49e9-9888-5f946d79c235">
 
